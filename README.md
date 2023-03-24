@@ -1,2 +1,2 @@
 # Individual-Project-Test-Automation
-Individual Project on Konga Test Automation
+Automating Konga Ordering FLow for an Existing User
